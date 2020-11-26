@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      #host: mongod-0.mongodb-service
+      host: localhost
+      port: 27017
+      username: dart
+      password: dart
+      database: dart
+      
